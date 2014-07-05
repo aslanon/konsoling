@@ -1,0 +1,24 @@
+
+Kurulum:
+
+sudo python setup.py install
+
+
+Yukarıdaki komutu dosyaların bulunduğu dizinde kullanarak sisteminize kurabilirsiniz.
+
+Normal kullanıcı yetkilerinde çalıştırmak için linux terminaline: 
+
+konsoling 
+
+
+Root olarak çalıştırmak için;
+
+sudo su
+konsoling
+
+komutlarını kullanabilirsiniz. 
+
+Not: Root olarak çalıştırılması halinde sisteminize ciddi zararlar verebilirsiniz. 
+Kendinize vereceğiniz zararlardan kendiniz sorumlusunuzdur.
+
+
